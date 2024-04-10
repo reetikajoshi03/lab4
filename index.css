@@ -1,6 +1,6 @@
 /* Additional CSS for horizontal navigation */
 .topnav {
-    background-color: #333;
+    background-color: #1136f0;
     overflow: hidden;
     text-align: center; /* Center the links horizontally */
 }
@@ -19,7 +19,7 @@
 }
 
 .topnav a.active {
-    background-color: #4CAF50;
+    background-color: #af784c;
     color: white;
 }
 
@@ -36,7 +36,7 @@ div {
     padding: 20px;
     background-color: #fff;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(216, 106, 240, 0.1);
 }
 
 h1 {
